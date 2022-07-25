@@ -10,6 +10,25 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+ .card-img-top{
+  width: 70px;
+  height: 300px;
+ }
+ .card{
+  width: 70px;
+  height: 350px;
+  padding: 5px, 5px, 5px, 5px;
+ }
+ .fotosCarrito{
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  right: 0px;
+ }
+ .list-group-item{
+  height: 100px;
+  width: 800px;
+ }
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
